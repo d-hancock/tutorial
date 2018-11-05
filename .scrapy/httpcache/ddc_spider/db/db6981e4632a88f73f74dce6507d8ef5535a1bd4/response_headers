@@ -1,0 +1,8 @@
+Server: Apache-Coyote/1.1
+X-Ddc-Arch-Trace: cms_cookie,PostJava,NoCustomMatch,CmsPoolSelector,JavaPoolDRR-la1websol-cms-botpool06,CMSRequestTrace,HttpResponse,CookieSet
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=7200
+Expires: Mon, 05 Nov 2018 11:09:27 GMT
+Date: Mon, 05 Nov 2018 09:09:27 GMT
+Set-Cookie: AKA_A2=A; expires=Mon, 05-Nov-2018 10:09:27 GMT; path=/; domain=drivepetersen.com; secure; HttpOnly

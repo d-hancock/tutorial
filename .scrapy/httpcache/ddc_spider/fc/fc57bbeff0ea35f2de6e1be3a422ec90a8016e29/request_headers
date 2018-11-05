@@ -1,0 +1,6 @@
+Referer: https://www.drivepetersen.com/new-inventory/index.htm?start=32&
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/1.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip,deflate
+Cookie: DDC.inventory.view=full; JSESSIONID=0D26A759E9C81DBFDEE748335086E6EB; locale=en_US; searchHistory=%5B%7B%22types%22%3A%5B2%5D%2C%22timestamp%22%3A1541411183135%7D%5D; dlVlpViews=1; ddcpoolid=DRR-la1websol-cms-botpool06; AKA_A2=A

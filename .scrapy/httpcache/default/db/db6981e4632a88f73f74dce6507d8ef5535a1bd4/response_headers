@@ -1,0 +1,8 @@
+Server: Apache-Coyote/1.1
+X-Ddc-Arch-Trace: cms_cookie,PostJava,NoCustomMatch,CmsPoolSelector,JavaPoolDRR-la1websol-cms-botpool06,CMSRequestTrace,HttpResponse,CookieSet
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=7200
+Expires: Mon, 05 Nov 2018 10:33:53 GMT
+Date: Mon, 05 Nov 2018 08:33:53 GMT
+Set-Cookie: ddcpoolid=DRR-la1websol-cms-botpool06;Path=/;Expires=Mon, 05-Nov-2018 08:38:53 GMT

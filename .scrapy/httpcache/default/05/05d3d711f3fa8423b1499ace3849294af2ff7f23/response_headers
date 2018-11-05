@@ -1,0 +1,17 @@
+Server: Apache-Coyote/1.1
+X-Ddc-Arch-Trace: cms_cookie,PostJava,NoCustomMatch,CmsPoolSelector,JavaPoolDRR-la1websol-cms-botpool06,CMSRequestTrace,HttpResponse,CookieSet
+Vary: User-Agent, Accept-Encoding
+P3P: "https://secure4.dealer.com/P3P/PolicyReferences.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"
+Content-Type: text/html;charset=utf-8
+Content-Encoding: gzip
+Expires: Mon, 05 Nov 2018 08:33:59 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 05 Nov 2018 08:33:59 GMT
+Set-Cookie: JSESSIONID=B2DE48CBBFB591EDFC2CE0D575A2C9A5; Path=/; HttpOnly
+Set-Cookie: locale=en_US; Expires=Wed, 05-Dec-2018 08:33:59 GMT; Path=/
+Set-Cookie: searchHistory=%5B%7B%22types%22%3A%5B2%5D%2C%22timestamp%22%3A1541406839074%7D%5D; Expires=Wed, 05-Dec-2018 08:33:59 GMT; Path=/
+Set-Cookie: DDC.inventory.view=full; Path=/new-inventory/
+Set-Cookie: dlVlpViews=1; Path=/
+Set-Cookie: ddcpoolid=DRR-la1websol-cms-botpool06;Path=/;Expires=Mon, 05-Nov-2018 08:38:59 GMT
+Set-Cookie: AKA_A2=A; expires=Mon, 05-Nov-2018 09:33:59 GMT; path=/; domain=drivepetersen.com; secure; HttpOnly

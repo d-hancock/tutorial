@@ -1,0 +1,20 @@
+Date: Mon, 05 Nov 2018 08:06:51 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, max-age=10
+Expires: Mon, 05 Nov 2018 08:07:00 GMT
+Last-Modified: Mon, 05 Nov 2018 08:06:50 GMT
+Vary: *
+X-Stackifyid: V2|46b85f88-5da3-4682-b631-ea3945c5d728|C65344|CD1
+X-Aspnetmvc-Version: 5.2
+X-Aspnet-Version: 4.0.30319
+Set-Cookie: zipcode=; expires=Fri, 04-Nov-2022 07:06:50 GMT; path=/
+Set-Cookie: areacode=; expires=Fri, 04-Nov-2022 07:06:50 GMT; path=/
+Set-Cookie: fips=; expires=Fri, 04-Nov-2022 07:06:50 GMT; path=/
+Set-Cookie: referrerpagerouteid=804; expires=Fri, 04-Nov-2022 07:06:50 GMT; path=/
+X-Powered-By: ASP.NET
+X-Jdp: WEST145
+Access-Control-Allow-Origin: https://www.jdpower.com
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 474dd2c98b5e2604-ORD
+Content-Encoding: gzip
